@@ -1,4 +1,4 @@
-📊 Customer Churn Analysis &amp; Prediction App 🤖 
+# 📊 Customer Churn Analysis &amp; Prediction App 🤖 
 
 Built with Streamlit, this app analyzes churn data 🔍
 
