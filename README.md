@@ -11,3 +11,6 @@ Predicts if a customer will leave or stay 🔮
 Includes recommendations 💡 to reduce churn &amp; boost retention 🚀
 
 Powered by Scikit-learn + Random Forest 🌟.
+
+# Live link: 
+https://nandinisharmacustomerchurnanalysisapp-2rmttvdl68mdlqzepapsdh.streamlit.app/
